@@ -41,7 +41,11 @@
 
 <br><br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KaioNovaes&bg_color=000000&color=6B378E&line=6B378E&point=3C6D9A&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)   
+
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaioNovaes&radius=16&theme=dracula&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
+</div>
 
 <div>
   <div align="right">
@@ -64,5 +68,3 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KaioNovaes&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=true" height="145" alt="languages graph"  />
 </div>
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=lxh85ivp4k9efxwkvlq70xmw5)

@@ -49,10 +49,9 @@
   <h3 align="left">Connect with me!</h3>
   
   [![G-mail](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=bd93f9&color=282a36)](mailto:kaionicollas1515@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=bd93f9&color=282a36)](https://www.linkedin.com/in/mari4souza/)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=bd93f9&color=282a36)](https://www.linkedin.com/in/kaio-novaes/)
   [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=bd93f9&color=282a36)](https://www.instagram.com/kaionovaees/)
   [![Discord](https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=discord&logoColor=bd93f9&color=282a36)](https://discord.gg/KetQwDGd)
-  [![Whatsapp](https://img.shields.io/badge/-Whatsapp-000?style=for-the-badge&logo=whatsapp&logoColor=bd93f9&color=282a36)](https://discord.gg/KetQwDGd)
   
   <div align="right">
     <br>

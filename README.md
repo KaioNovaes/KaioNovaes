@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?weight=200&&size=25&pause=1000&color=6B378E&random=false&width=524&lines=Hey,+My+name+is+Kaio+Novaes;I'm+22+years+old;I+am+from+Maceio,+AL+and+Study+Computer+Science;Be+Welcome!)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?weight=300&&size=25&pause=1000&color=6B378E&random=false&width=524&lines=Hey,+My+name+is+Kaio+Novaes;I'm+22+years+old;I+am+from+Maceio,+AL;I+study+Computer+Science;Be+Welcome!)](https://git.io/typing-svg) 
 
 <div height="190px">
   <img align="right" alt="" height="190px" src="./src/study.gif">

@@ -5,6 +5,9 @@ on:
     - cron: "* */12 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write  # Permitir que o fluxo de trabalho faça push
+
 jobs:
   build:
     name: Jobs to update datas

@@ -41,20 +41,11 @@
 
 <br><br>
 
-
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaioNovaes&radius=16&theme=dracula&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KaioNovaes&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=true" height="145" alt="languages graph"  />
 </div>
 
 <div>
-  <div align="right">
-    <br>
-      <p><b>Visitors Count</b></p>  
-      <p><img align="center" src="https://profile-counter.glitch.me/{KaioNovaes}/count.svg" /></p> 
-    <br>
-  </div>
-  
   <h3 align="left">Connect with me!</h3>
   
   [![G-mail](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=bd93f9&color=282a36)](mailto:kaionicollas1515@gmail.com)
@@ -62,9 +53,11 @@
   [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=bd93f9&color=282a36)](https://www.instagram.com/kaionovaees/)
   [![Discord](https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=discord&logoColor=bd93f9&color=282a36)](https://discord.gg/KetQwDGd)
   [![Whatsapp](https://img.shields.io/badge/-Whatsapp-000?style=for-the-badge&logo=whatsapp&logoColor=bd93f9&color=282a36)](https://discord.gg/KetQwDGd)
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KaioNovaes&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=true" height="145" alt="languages graph"  />
+  
+  <div align="right">
+    <br>
+      <p><b>Visitors Count</b></p>  
+      <p><img align="center" src="https://profile-counter.glitch.me/{KaioNovaes}/count.svg" /></p> 
+    <br>
+  </div>
 </div>

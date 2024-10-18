@@ -23,14 +23,21 @@
 </div>
  
   ##
- 
+  
+  ![Snake animation](https://github.com/KaioNovaes/KaioNovaes/blob/output/github-contribution-grid-snake.svg)
+
+  ##
+  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KaioNovaes&bg_color=000000&color=6B378E&line=6B378E&point=3C6D9A&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)   
 
   ##
 
 <div align="center">  
   <a href="https://www.linkedin.com/in/seu-perfil/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:kaionicollas1515@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/KetQwDGd" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/kaionovaees/" target="_blank"><img src="https://img.shields.io/badge/-Insta-ff69b4?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  
 </div>
 
 

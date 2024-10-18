@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?weight=200&&size=25&pause=1000&color=6B378E&random=false&width=524&lines=Hey,+My+name+is+Kaio+Novaes;I'm+22+years+old;I+am+from+Maceio,+AL+and+Study+Computer+Science;Be+Welcome!)](https://git.io/typing-svg) 
-
 <div height="190px">
   <img align="right" alt="" height="190px" src="./src/study.gif">
   <h3 align="left"> Development Languages </h3>
@@ -26,7 +25,7 @@
   </div>
 </div>
 
-  ##
+  #
   
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KaioNovaes/KaioNovaes/output/github-contribution-grid-snake-dark.svg">
@@ -34,10 +33,7 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KaioNovaes/KaioNovaes/output/github-contribution-grid-  snake.svg">
 </picture>
 
-  ##
-  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KaioNovaes&bg_color=000000&color=6B378E&line=6B378E&point=3C6D9A&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)   
-
 <div>
   <div align="right">
     <br>
